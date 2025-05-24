@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fcBg6etjGpQqc/sEOIAXqAQwsqprDX/7G+Cq3w3FVxQ=",
+  "Source": "JwtAuthWithoutIdentity",
+  "BasePath": "_content/JwtAuthWithoutIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
