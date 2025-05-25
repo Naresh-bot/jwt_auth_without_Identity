@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\jwtauthwithoutidentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:jwtauthwithoutidentity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|d:\\naresh\\happycode\\asp net core\\jwtauth\\jwtauthwithoutidentity\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E02F71-3811-42A1-A05A-19CFD621FC30}|JwtAuthWithoutIdentity.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtAuthWithoutIdentity.http",
-              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\JwtAuthWithoutIdentity.http",
-              "RelativeDocumentMoniker": "JwtAuthWithoutIdentity.http",
-              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\JwtAuthWithoutIdentity.http",
-              "RelativeToolTip": "JwtAuthWithoutIdentity.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-24T03:30:59.747Z",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:14:03.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T01:49:00.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAMMzMzMzMgwCsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T03:30:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:26:15.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:32:42.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "Controllers\\AdminController.cs*",
+              "ViewState": "AgIAAAUAAABAZmZmZmYkwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:31:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Naresh\\happycode\\ASP NET CORE\\JwtAuth\\JwtAuthWithoutIdentity\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Controllers\\AuthController.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:29:42.029Z",
               "EditorCaption": ""
             }
           ]
